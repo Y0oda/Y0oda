@@ -26,7 +26,8 @@ Linguagens que eu quero aprender:
 
 <div style="display: inline_block"><br>
   <img align="left" alt="Yoda-foto" height="50" width="50" src="https://cdn.discordapp.com/avatars/916338493112852500/a9493f9d95bacb4f9218b7f168288207.png?size=2048">
-  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"></a>
+  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50"/></a>
 </div>
 
 ##
