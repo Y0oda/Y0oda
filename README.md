@@ -31,12 +31,6 @@ Linguagens que eu quero aprender:
 
 ##
 
-<div> 
- <a href="https://discord.gg/XZaDBZeXHG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
-
-##
-
 <div align="center">
   <a href="https://github.com/Y0oda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0oda&layout=compact&langs_count=7&theme=dracula"/></br>
