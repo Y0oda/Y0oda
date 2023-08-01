@@ -7,7 +7,6 @@ Um pouco sobre mim:
 - 12 anos
 - Ele/dele
 - Hétero
-- Dono da <a href="https://discord.gg/XZaDBZeXHG">Yoda's Store</a>
 
 ##
 
