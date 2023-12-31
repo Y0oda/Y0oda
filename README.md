@@ -11,7 +11,7 @@ Um pouco sobre mim:
 ##
 
 Skills:
-- Python (60%)
+- Python (1%)
 
 ##
 
